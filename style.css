@@ -1,6 +1,8 @@
 @font-face {
-    font-family: 'Neue Einstellung';
+    font-family: 'neue_einstellungnormal';
+    src: url('neueeinstellung-normal.woff2') format('woff2'),
+         url('neueeinstellung-normal.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
-    font-weight: 400;
-    src: url(NeueEinstellung-Normal.otf) format('truetype');
-  }
+
+}
